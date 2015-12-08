@@ -10,7 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "chokidar": "^1.4.0",
+    "colors": "^1.1.2",
     "html-to-vdom": "^0.7.0",
+    "quickly-copy-file": "^0.1.0",
     "virtual-dom": "^2.1.1"
   }
 }
